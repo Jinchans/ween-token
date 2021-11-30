@@ -1,5 +1,5 @@
 # ween-token
-Smart contract for Halloween masks on Arbitrum. (SANTA hat clone). New experimental ERC20 token with semi-NFT properties. Based off the meme of OS runescape items. Only 1 can be bought or sold at a time.
+Smart contract for Halloween masks on Arbitrum. (SANTA hat clone). New experimental ERC20 token with semi-NFT properties. Based off the meme of OS runescape items. Only 1 can be bought or sold at a time. Liquidity locked permanently.
 
 WARNING
 =======
