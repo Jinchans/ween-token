@@ -1,5 +1,5 @@
 # ween-token
-Smart contract for Halloween masks on Arbitrum. 
+Smart contract for Halloween masks on Arbitrum. (SANTA hat clone).
 
 WARNING
 =======
